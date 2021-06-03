@@ -12,7 +12,8 @@ In this competition, the fifth iteration, you will use hierarchical sales data f
 If successful, your work will continue to advance the theory and practice of forecasting. The methods used can be applied in various business areas, such as setting up appropriate inventory or service levels. Through its business support and training, the MOFC will help distribute the tools and knowledge so others can achieve more accurate and better calibrated forecasts, reduce waste and be able to appreciate uncertainty and its risk implications.
 
 
-There are 5 files present
+There are 5 files present-
+
 calendar.csv - Contains information about the dates on which the products are sold.
 sales_train_validation.csv - Contains the historical daily unit sales data per product and store [d_1 - d_1913]
 sample_submission.csv - The correct format for submissions. Reference the Evaluation tab for more info.
