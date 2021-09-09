@@ -1,4 +1,4 @@
-# EDA-and-Feature-Engineering-on-M5-Forecasting-Accuracy
+# M5-Forecasting-Accuracy
 Dataset: https://www.kaggle.com/c/m5-forecasting-accuracy
 
 This is one of the two complementary competitions that together comprise the M5 forecasting challenge. Can you estimate, as precisely as possible, the point forecasts of the unit sales of various products sold in the USA by Walmart? If you are interested in estimating the uncertainty distribution of the realized values of the same series, be sure to check out its companion competition
